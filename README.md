@@ -3,7 +3,7 @@
 
 Rust enthusiast, passionate about coding battles
 
-- 🧑‍💼 I'm currently working as a educational and technical manager at 42 Lyon
+- 🧑‍💼 I'm currently working as a software engineer as a rust backend developer in rust
 - 🌱 I'm learning Docker, Kubernetes, GraphQL and still working on Rust
 - 🔭 I'm working on a GraphQL API in Rust using Rocket and Juniper.
 
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=amatthys)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=amatthys)](https://github.com/mohouyizme/1337-readme)
